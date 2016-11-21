@@ -2,9 +2,23 @@
 
 There are sample code to send push notification in Mesosfer cloud platform using Python. To run this code please follow instruction below. You need to install python3.
 
+Prerequisites :
+
+* Install python-pip
+```python
+curl -O https://bootstrap.pypa.io/get-pip.py
+sudo python3 get-pip.py
+```
+
+* Install requests
+```python
+sudo pip3 install requests
+```
+
+
 Run code :
 ```python
-python main.py
+python3 main.py
 ```
 
 

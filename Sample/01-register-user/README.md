@@ -18,7 +18,7 @@ sudo pip3 install requests
 
 Run code :
 ```python
-python main.py
+python3 main.py
 ```
 
 
