@@ -1,8 +1,7 @@
-# MESOSFER PYTHON #
+# MESOSFER PYTHON SAMPLE CODE #
 
 
 There are serveral projects in Mesosfer cloud platform using Python. For more information about Mesosfer and its features, see [Mesosfer Website][mesosfer.com] and [Mesosfer Documentations][docs].
-
 
 ## License
     Copyright (c) 2016, Mesosfer.
